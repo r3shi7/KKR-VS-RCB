@@ -7,11 +7,12 @@ This repository contains a data-driven analysis of an Indian Premier League (IPL
 - <a  href = "https://github.com/r3shi7/KKR-VS-RCB/blob/main/all_matches.xlsx">Dataset</a>
 
 ##📈 Key Performance Indicators (KPIs)
+
 This section outlines the core metrics and visualizations used in the analysis of the IPL match between Kolkata Knight Riders (KKR) and Royal Challengers Bengaluru (RCB).
-✅ Q1. Runs Scored by Each Team
-✅ Q2. Runs Scored by Each Player
-✅ Q3. Player with Top Strike Rate
-✅ Q4. Wickets Taken by Each Team
+-✅ Q1. Runs Scored by Each Team
+-✅ Q2. Runs Scored by Each Player
+-✅ Q3. Player with Top Strike Rate
+-✅ Q4. Wickets Taken by Each Team
 
 #📊 Visualizations
 🧱 Manhattan Chart
